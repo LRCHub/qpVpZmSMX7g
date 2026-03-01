@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "JUMP",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-03-01T07:21:19.160866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jump (2015 Remaster)",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/01_Jump_(2015_Remaster)_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jump Right In",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/02_Jump_Right_In_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jump Then Fall",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_Jump_Then_Fall_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ace of Hz - Punks Jump Up Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/04_Ace_of_Hz_-_Punks_Jump_Up_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ace of Hz (Punks Jump Up Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/05_Ace_of_Hz_(Punks_Jump_Up_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ace of Hz - Punks Jump Up Dub Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/06_Ace_of_Hz_-_Punks_Jump_Up_Dub_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ace of Hz (Punks Jump Up dub remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/07_Ace_of_Hz_(Punks_Jump_Up_dub_remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jump",
+      "artist": "Mystikal",
+      "has_synced": false,
+      "path": "select/08_Jump_Mystikal.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jump",
+      "artist": "Mystikal",
+      "has_synced": false,
+      "path": "select/09_Jump_Mystikal.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jump On It",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/10_Jump_On_It_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jump They Say",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Jump_They_Say_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jump They Say",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Jump_They_Say_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "À cause des garçons (Punks Jump Up remix)",
+      "artist": "Yelle",
+      "has_synced": false,
+      "path": "select/13_À_cause_des_garçons_(Punks_Jump_Up_remix)_Yelle.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Jump Off",
+      "artist": "Lil' Kim feat. Mr. Cheeks",
+      "has_synced": false,
+      "path": "select/14_The_Jump_Off_Lil'_Kim_feat._Mr._Cheeks.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Jump Off (Feat. Mr. Cheeks)",
+      "artist": "Lil' Kim",
+      "has_synced": false,
+      "path": "select/15_The_Jump_Off_(Feat._Mr._Cheeks)_Lil'_Kim.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jump",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/16_Jump_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUMP",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_JUMP_BLACKPINK.txt"
+    }
+  ]
+}
